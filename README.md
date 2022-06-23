@@ -7,9 +7,10 @@ Welcome to the year 2912, where your data science skills are needed to solve a c
  While rounding Alpha Centauri en route to its first destination—the torrid 55 Cancri E—the unwary Spaceship Titanic collided with a spacetime anomaly hidden within a dust cloud. Sadly, it met a similar fate as its namesake from 1000 years before. Though the ship stayed intact, almost half of the passengers were transported to an alternate dimension!
  
  # Methodology - 
-* Exhaustive data analysis
-  * adnadk
-* Exhaustive data visualization
+* Explorative data analysis
+  * Looking at each feature individually i.e Univariate Analysis. Examining descriptive statistics, understanding trends.
+  * Examining feature interactions with other features. Multivariate analysis featuring key observations.
+  * Describing numerical features in detail by analyzing skewness and kurtosis.
 * Data cleaning
 * Data preparation for machine learning
 * 10 different machine learning algorithms applied
