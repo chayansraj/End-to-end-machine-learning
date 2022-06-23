@@ -8,7 +8,7 @@ Welcome to the year 2912, where your data science skills are needed to solve a c
  
  # Methodology - 
 * Exhaustive data analysis
-- dakjdbn
+  * adnadk
 * Exhaustive data visualization
 * Data cleaning
 * Data preparation for machine learning
