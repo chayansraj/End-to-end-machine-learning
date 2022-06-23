@@ -1,7 +1,7 @@
 # Data-Storytelling-along-with-Machine-Learning
 
 <p align="center"> 
-  <img width="500" height="500" src="https://user-images.githubusercontent.com/22219089/175320780-c002f13e-8380-4e76-95b2-e61fffd19339.png"> <h6 align = "center" > Source: google </h6>
+  <img width="800" height="400" src="https://user-images.githubusercontent.com/22219089/175320780-c002f13e-8380-4e76-95b2-e61fffd19339.png"> <h6 align = "center" > Source: google </h6>
   
 </p>
 
