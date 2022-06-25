@@ -1,10 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-
+# Import libraries and packages
 import numpy as np
 import pandas as pd
-import pandas_profiling as pp
 import matplotlib.pyplot as plt
 import seaborn as sns
 
