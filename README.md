@@ -38,3 +38,6 @@ While rounding Alpha Centauri en route to its first destination—the torrid 55 
 * Modeling Process - 
   * The process of developing an effective model is both iterative and heuristic. It is difficult to know the needs of any data set prior to working with it and it is
   common for many approaches to be evaluated and modified before a model can be finalized. A typical modeling process is shown below
+  
+  ![modeling process](https://user-images.githubusercontent.com/22219089/178803633-ba47a6c3-626e-42e2-ab2b-c0c09de96114.JPG)
+
