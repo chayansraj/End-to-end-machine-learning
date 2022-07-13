@@ -40,4 +40,6 @@ While rounding Alpha Centauri en route to its first destination—the torrid 55 
   common for many approaches to be evaluated and modified before a model can be finalized. A typical modeling process is shown below
   
   ![modeling process](https://user-images.githubusercontent.com/22219089/178803633-ba47a6c3-626e-42e2-ab2b-c0c09de96114.JPG)
-
+<p align="center"> 
+  <img width="800" height="200" src="https://user-images.githubusercontent.com/22219089/178803633-ba47a6c3-626e-42e2-ab2b-c0c09de96114.JPG"> <h6 align = "center" > Source: http://www.feat.engineering/index.html </h6>
+</p>
