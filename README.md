@@ -1,4 +1,4 @@
-# Data-Storytelling-along-with-Machine-Learning
+# Data Storytelling along with Machine Learning
 
 <p align="center"> 
   <img width="800" height="400" src="https://user-images.githubusercontent.com/22219089/175320780-c002f13e-8380-4e76-95b2-e61fffd19339.png"> <h6 align = "center" > Source: google </h6>
@@ -43,3 +43,11 @@ While rounding Alpha Centauri en route to its first destination—the torrid 55 
 <p align="center"> 
   <img width="900" height="400" src="https://user-images.githubusercontent.com/22219089/178803633-ba47a6c3-626e-42e2-ab2b-c0c09de96114.JPG"> <h6 align = "center" > Source: http://www.feat.engineering/index.html </h6>
 </p>
+
+  * Models Used - 
+    * Knearest Neighbors
+    * Decision Trees
+    * Random Forests
+    * Support Vector Machines
+    * XGBoost
+    * Neural Networks
