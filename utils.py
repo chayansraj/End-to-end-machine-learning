@@ -8,7 +8,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Utility functions
-
 ### Function to change working directory
 def change_path(path):
     if path:
