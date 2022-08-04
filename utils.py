@@ -19,6 +19,8 @@ def change_path(path):
 
     return directory_train, directory_test
 
+
+
 ### Function to print training and validation curves for neural networks
 import matplotlib.pyplot as plt
 def plot_results(history):
