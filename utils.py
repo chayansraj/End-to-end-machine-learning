@@ -46,8 +46,7 @@ def plot_results(history):
     plt.show()
 
 
-
-### Function for data visualization
+### Functions for data visualization
 
 
 ### Function to create pie chart
