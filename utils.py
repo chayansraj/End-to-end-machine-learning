@@ -48,7 +48,6 @@ def plot_results(history):
 
 ### Functions for data visualization
 
-
 ### Function to create pie chart
 def draw_pie(values, labels, explode, color_palette, title, figsize = (12,8),  startangle = 90):
 
